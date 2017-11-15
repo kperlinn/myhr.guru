@@ -1,0 +1,116 @@
+  .orangehead {
+    background-color: #ff5722;
+    margin-top: -15px;
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 750px;
+  }
+  .topnav {
+    height: 50px;
+    background-color: #ff5722;
+  }
+  .navlink {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff;
+    padding: 12.5px;
+    font-size: 15px;
+    text-decoration: none;
+    float: right;
+    margin-right: 25px;
+    transition: all 0.3s ease;
+  }
+  .navlink:hover {
+    border-bottom: 0.5px solid #ffffff;
+    padding-bottom: 2px;
+  }
+  .navspan {
+    font-family: 'Kavoon', cursive;
+    color: #ffffff;
+    padding: 12.5px;
+    font-size: 18px;
+    text-decoration: none;
+    float: left;
+    margin-left: 25px;
+    transition: all 0.3s ease;
+  }
+  .navspan:hover {
+    border-bottom: 0.5px solid #ffffff;
+    padding-bottom: 2px;
+  }
+  .topsection {
+    text-align: center;
+  }
+  .headtitle {
+    font-family: 'Kavoon', cursive;
+    font-size: 70px;
+    color: #ffffff;
+    margin: 60px 0 0 0;
+  }
+  .subtitle {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    color: #ffffff;
+    margin: 10px 0 0 0;
+  }
+  h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    color: #ffffff;
+  }
+  label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    padding-right: 15px;
+  }
+  input[type=email] {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+  }
+  input[type=submit] {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    padding: 10px 50px;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    margin-top: 25px;
+  }
+  input[type=submit]:hover {
+    background-color: #449d48;
+  }
+  #mc_embed_signup {
+    color: #ffffff;
+    clear:left;
+    padding-top: 15px;
+  }
+  /*@media (max-width: 600px) {
+    .topnav {
+      position: static;
+    }
+    .topnav span {
+      display: none;
+    }
+    h1 {
+      font-size: 50px;
+      margin-top: 20px;
+      line-height: 40px;
+    }
+    h2 {
+      font-size: 15px;
+      margin: 20px 0 30px 0;
+    }
+    h3 {
+      font-size: 20px;
+      margin: 20px 0 30px 0;
+    }
+    div {
+      margin: 20px 12px 0 12px;
+    }
+    input[type=email] {
+      font-size: 12px;
+    }
+    input[type=submit] {
+      font-size: 12px;
+    }
+}*/
